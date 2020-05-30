@@ -8,5 +8,6 @@ From terminal:
 
 The deploy.sh script will create push the build/output directory to the gh-pages branch of this repo.  For more information about this deploy.sh script, see [https://github.com/X1011/git-directory-deploy]
 
-The github pages site is hosted here: (https://coxstuart.github.io/shiny-dollop/)
+The github pages site is hosted here:\
+https://coxstuart.github.io/shiny-dollop/
 
